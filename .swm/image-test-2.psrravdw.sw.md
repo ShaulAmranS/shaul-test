@@ -1,5 +1,5 @@
 ---
-title: Image test
+title: Image test 2
 ---
 Test here
 
